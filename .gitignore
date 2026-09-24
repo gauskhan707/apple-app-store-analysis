@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.DS_Store
+*.parquet
+*.pkl
+*.joblib
+*.zip
+# Keep large/raw datasets out of GitHub
+data/raw/
+data/*.csv
